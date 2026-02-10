@@ -1,19 +1,20 @@
-<!-- Animated Banner -->
+<!-- ======= PREMIUM ANIMATED HEADER ======= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kumar%20Abhishek&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,100:243B55&text=Kumar%20Abhishek&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ======= TYPING ANIMATION ======= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Python+Full-Stack+Developer;React+%7C+Django+REST+Framework;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Python+Full-Stack+Developer;React+%2B+Django+REST+Architect;API-Driven+Scalable+Systems;Clean+Code+Advocate;Backend+Architecture+Enthusiast"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Kumar Abhishek
-Role: Python Full-Stack Developer
-Focus: Backend Architecture & Scalable Systems
-Philosophy: Clean Code + Separation of Concerns
+Title: Python Full-Stack Developer
+Specialization: React + Django REST Framework
+Architecture: REST APIs | Database Systems | Scalable Backend
+Mindset: Clean Code | Maintainability | Performance
